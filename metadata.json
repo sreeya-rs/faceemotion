@@ -1,0 +1,5 @@
+{
+  "name": "MoodSync",
+  "description": "A face recognition and music recommendation app that detects your mood and suggests the perfect tracks.",
+  "requestFramePermissions": ["camera"]
+}
